@@ -1,0 +1,14 @@
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\obj\Debug\AxInterop.MSHTML.dll
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\obj\Debug\proCalendario.vbproj.ResolveComReference.cache
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\obj\Debug\GCM_calendario.frmCalHTML.resources
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\obj\Debug\GCM_calendario.frmBorders.resources
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\obj\Debug\GCM_calendario.frmColor.resources
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\obj\Debug\proCalendario.vbproj.GenerateResource.Cache
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\bin\GCM_calendario.exe
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\bin\GCM_calendario.pdb
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\bin\GCM_calendario.xml
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\bin\AxInterop.MSHTML.dll
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\obj\Debug\GCM_calendario.exe
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\obj\Debug\GCM_calendario.xml
+C:\Proyectos .NET 2022\Calendario2014 - ENTERO 2022\GCM_calendario.NET\obj\Debug\GCM_calendario.pdb
